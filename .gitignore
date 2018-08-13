@@ -1,0 +1,9 @@
+.sass-cache/
+node_modules/
+/vendor/*
+.env
+.idea
+.DS_Store
+dt-people-groups/json/*
+composer.phar
+/nbproject/private/
